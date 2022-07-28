@@ -1,6 +1,6 @@
 # GitHub Gallery
 
-![Mock](https://github.com/mattbixley/photogallery/blob/gh-pages/images/IMG_4230?raw=true)
+![Mock](https://github.com/mattbixley/photogallery/blob/gh-pages/images/IMG_4230.jpg?raw=true)
 
 [Demo](https://mikelothar.github.io/github-gallery/) | [Repository](https://github.com/mikelothar/github-gallery)
 
