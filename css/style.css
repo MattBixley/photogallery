@@ -22,14 +22,19 @@
     transition: 1s;
     padding: 15px;
     width: 100%;
-    object-fit: cover;
+    height: 350px;
+    object-fit: scale-down;
 }
 .gallery img:hover{
     filter: grayscale(100%);
     transform: scale(1.1);
 }
+.data-title{
+    font-size: 36px;
+}
 
 footer {
-    padding: 25px 0;
+    padding: 25px 0px;
     text-align: center;
+    font-size: 30px;
 }
